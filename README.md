@@ -1,6 +1,6 @@
 # `gfm` GitHub Flavored Markdown
 
-[![Compliance](https://github.com/ghostwriter/gfm/actions/workflows/compliance.yml/badge.svg)](https://github.com/ghostwriter/gfm/actions/workflows/compliance.yml)
+[![Automation](https://github.com/ghostwriter/gfm/actions/workflows/automation.yml/badge.svg)](https://github.com/ghostwriter/gfm/actions/workflows/automation.yml)
 [![Supported PHP Version](https://badgen.net/packagist/php/ghostwriter/gfm?color=8892bf)](https://www.php.net/supported-versions)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/ghostwriter?label=Sponsor+@ghostwriter/gfm&logo=GitHub+Sponsors)](https://github.com/sponsors/ghostwriter)
 [![Code Coverage](https://codecov.io/gh/ghostwriter/gfm/branch/main/graph/badge.svg)](https://codecov.io/gh/ghostwriter/gfm)
