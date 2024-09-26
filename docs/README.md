@@ -1,3 +1,3 @@
-# WIP
+# `gfm` GitHub Flavored Markdown
 
 here be dragons...
