@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Ghostwriter\Wip;
+namespace Ghostwriter\GitHubFlavoredMarkdown;
 
-use Ghostwriter\Wip\Interface\FooInterface;
+use Ghostwriter\GitHubFlavoredMarkdown\Interface\FooInterface;
 
 /** @see FooTest */
 final class Foo implements FooInterface
